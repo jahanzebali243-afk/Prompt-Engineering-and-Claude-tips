@@ -127,7 +127,7 @@ When you want precise, deterministic output (like code), ask for "the most stand
 5. Ask the AI to explain the root cause before fixing it.
 ```
 
-**Example:**
+Example:
 > "I'm getting `IndexError: list index out of range` on line 14 of this function [paste code]. I expected it to return the last 3 items of the list, but it crashes when the list has fewer than 3 items. I already tried adding a length check but it still fails. Explain why this is happening, then fix it."
 
 ### Debugging tips
